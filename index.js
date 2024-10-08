@@ -156,3 +156,4 @@ export default function Component() {
                     </div>
                     <div className="flex items-center space-x-4">
                       <Gamepad2 className="w-6 h-6 text-purple-500" />
+                        
